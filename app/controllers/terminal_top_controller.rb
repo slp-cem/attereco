@@ -1,0 +1,2 @@
+class TerminalTopController < ApplicationController
+end
